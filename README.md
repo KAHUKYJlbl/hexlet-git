@@ -1,2 +1,3 @@
 No code No pain
-experiment with amend
+one more experiment with add -i
+and more experiment with add -i
